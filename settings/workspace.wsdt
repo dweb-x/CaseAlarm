@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>alarm/Flash</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>157</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>975</ColumnWidth1><ColumnWidth2>260</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>18</ColumnWidth0><ColumnWidth1>1863</ColumnWidth1></Debug-Log><Breakpoints><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Breakpoints></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-32516-12918</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>alarm</ExpandedNode><ExpandedNode>alarm/app</ExpandedNode><ExpandedNode>alarm/app/include</ExpandedNode><ExpandedNode>alarm/app/src</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12357-13091</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-25062-16096</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd4><Wnd5><Tabs><Tab><Identity>TabID-2311-23940</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\projects\alarm\src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>131</YPos2><SelStart2>5838</SelStart2><SelEnd2>5838</SelEnd2></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\projects\alarm\src\message.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>18</YPos2><SelStart2>397</SelStart2><SelEnd2>397</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\projects\alarm\include\message.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>110</SelStart2><SelEnd2>110</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\projects\alarm\include\lcdbuffer.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\projects\alarm\src\lcdbuffer.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>610</SelStart2><SelEnd2>610</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\projects\alarm\src\status.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>450</SelStart2><SelEnd2>461</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\projects\alarm\include\status.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>653</SelStart2><SelEnd2>663</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02762538><key>iaridepm.enu1</key></Toolbar-02762538></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>621</Bottom><Right>231</Right><x>-2</x><y>-2</y><xscreen>115</xscreen><yscreen>297</yscreen><sizeHorzCX>59896</sizeHorzCX><sizeHorzCY>297595</sizeHorzCY><sizeVertCX>121354</sizeVertCX><sizeVertCY>624248</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>155</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>157</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>157315</sizeHorzCY><sizeVertCX>59896</sizeVertCX><sizeVertCY>297595</sizeVertCY></Rect></Wnd4></Sizes></Row0><Row1><Sizes><Wnd5><Rect><Top>153</Top><Left>-2</Left><Bottom>332</Bottom><Right>1922</Right><x>-2</x><y>153</y><xscreen>1924</xscreen><yscreen>179</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>179359</sizeHorzCY><sizeVertCX>63021</sizeVertCX><sizeVertCY>179359</sizeVertCY></Rect></Wnd5></Sizes></Row1></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

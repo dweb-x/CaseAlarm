@@ -1,0 +1,56 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[JLinkDriver]
+WatchCond=_ 0
+Watch0=_ 0 "" 0 "" 0 "" 0 "" 0 0 0 0
+Watch1=_ 0 "" 0 "" 0 "" 0 "" 0 0 0 0
+CStepIntDis=_ 0
+[DebugChecksum]
+Checksum=-757597789
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "C:\Users\Dave\Desktop\OS_Assignment1\Assignmentv0.8\Micrium\Software\uCOS-II\Source\os_sem.c" "E:\Assignmentv0.8\projects\alarm\Micrium\Software\uCOS-II\Source\os_sem.c"
+A1=_ "C:\Users\Dave\Desktop\OS_Assignment1\Assignmentv0.8\projects\alarm\src\main.c" "E:\Assignmentv0.8\projects\alarm\src\main.c"
+A2=_ "E:\Embeded_Systems\OS_Assignment1\Assignmentv0.6\projects\alarm\src\main.c" "H:\Embeded_Systems\OS_Assignment1\Assignmentv0.7alpha - Copy\projects\alarm\src\main.c"
+A3=_ "L:\Embeded_Systems\OS_Assignment1\Assignmentv0.3\Micrium\Software\uCOS-II\Source\os_core.c" ""
+A4=_ "L:\Embeded_Systems\OS_Assignment1\Assignmentv0.3\Micrium\Software\uCOS-II\Source\os_sem.c" "H:\Embeded_Systems\OS_Assignment1\Assignmentv0.3\Micrium\Software\uCOS-II\Source\os_sem.c"
+A5=_ "L:\Embeded_Systems\OS_Assignment1\Assignmentv0.3\bsp\src\timers.c" "H:\Embeded_Systems\OS_Assignment1\Assignmentv0.3\bsp\src\timers.c"
+A6=_ "L:\Embeded_Systems\OS_Assignment1\Assignmentv0.3\projects\alarm\src\main.c" "H:\Embeded_Systems\OS_Assignment1\Assignmentv0.3\projects\alarm\src\main.c"
+A7=_ "L:\Embeded_Systems\OS_Assignment1\Assignmentv0.3\projects\alarm\src\status.c" "H:\Embeded_Systems\OS_Assignment1\Assignmentv0.3\projects\alarm\src\status.c"
+A8=_ "L:\Embeded_Systems\OS_Assignment1\Assignmentv0.6\Micrium\Software\uCOS-II\Source\os_sem.c" "H:\Embeded_Systems\OS_Assignment1\Assignmentv0.7alpha - Copy\projects\alarm\Micrium\Software\uCOS-II\Source\os_sem.c"
+A9=_ "L:\Embeded_Systems\OS_Assignment1\Assignmentv0.6\projects\alarm\src\main.c" "E:\Embeded_Systems\OS_Assignment1\Assignmentv0.6\projects\alarm\src\main.c"
+Count=10
+SuppressDialog=1
